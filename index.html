@@ -31,17 +31,12 @@
   <link href="cover.css" rel="stylesheet">
   <script>
     function redirWAnim(goal) {
-      t = document.getElementById("overlay")
-      t.style.zIndex = "100"
-      t.style.transition = "all 1s ease-out"
-      t.style.opacity = "1"
-      setTimeout(()=>{document.location.href = goal},1000)
+      setTimeout(()=>{document.location.href = goal},10)
     }
   </script>
 </head>
 
 <body class="d-flex h-100 text-center text-white bg-dark">
-  <div style="z-index: -1;background-color:black;opacity:0;position:absolute;left:0%;top:0%;height: 100%;width:100%" id="overlay"></div>
   <div class="cover-container d-flex w-100 h-100 p-3 mx-auto flex-column">
     <header class="mb-auto">
       <div>
