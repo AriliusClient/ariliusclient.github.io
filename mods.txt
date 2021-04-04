@@ -1,0 +1,5 @@
+Cornos;https://github.com/AriliusClient/Cornos/raw/master/builds/latest.jar
+Sus mod;https://github.com/AriliusClient/sus-mod/releases/download/1.0/sus-1.0.0.jar
+AntiAntiXray;https://github.com/AriliusClient/AntiAntiXray/blob/master/build/libs/AntiAntiXray-1.8.jar
+LoginWithSessionToken;https://github.com/AriliusClient/LoginWithSessionToken/blob/master/build/libs/lwat-1.0.0.jar
+BookBot;https://github.com/AriliusClient/BookBot/blob/master/build/libs/BookBot-1.0.jar
