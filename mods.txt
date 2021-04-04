@@ -1,5 +1,12 @@
-Cornos;https://github.com/AriliusClient/Cornos/raw/master/builds/latest.jar
-Sus mod;https://github.com/AriliusClient/sus-mod/releases/download/1.0/sus-1.0.0.jar
-AntiAntiXray;https://github.com/AriliusClient/AntiAntiXray/blob/master/build/libs/AntiAntiXray-1.8.jar
-LoginWithSessionToken;https://github.com/AriliusClient/LoginWithSessionToken/blob/master/build/libs/lwat-1.0.0.jar
-BookBot;https://github.com/AriliusClient/BookBot/blob/master/build/libs/BookBot-1.0.jar
+1.16.5 Fabric Cornos;https://github.com/AriliusClient/Cornos/raw/master/builds/latest.jar
+1.16.5 Fabric Sus mod;https://github.com/AriliusClient/sus-mod/releases/download/1.0/sus-1.0.0.jar
+1.16.5 Fabric AntiAntiXray;https://github.com/AriliusClient/AntiAntiXray/blob/master/build/libs/AntiAntiXray-1.8.jar
+1.16.5 Fabric LoginWithSessionToken;https://github.com/AriliusClient/LoginWithSessionToken/blob/master/build/libs/lwat-1.0.0.jar
+1.16.5 Fabric BookBot;https://github.com/AriliusClient/BookBot/blob/master/build/libs/BookBot-1.0.jar
+1.16.5 Fabric Inertia;https://github.com/AriliusClient/ariliusclient.github.io/raw/master/assets/Inertia.jar
+1.16.5 Fabric Meteor;https://meteorclient.com/download
+1.16.5 Fabric Bleachhack;https://github.com/AriliusClient/ariliusclient.github.io/raw/master/assets/Bleachhack.jar
+1.16.5 Fabric Kami Blue;https://github.com/kami-blue/client/releases/download/2.04.01/kamiblue-2.04.01.jar
+1.16.5 Fabric Kami;https://github.com/zeroeightysix/KAMI/releases/download/1.16.5-mar/KAMI-1.16.5-mar.jar
+1.12.2 Forge LiquidBounce;https://github.com/AriliusClient/ariliusclient.github.io/raw/master/assets/LB.jar
+1.12.2 Forge SalHack;https://github.com/ionar2/spidermod/releases/download/2.05/salhack-github-2.05-release.jar
