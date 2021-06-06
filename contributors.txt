@@ -1,5 +1,5 @@
 ccff0c05-64eb-4383-8cd3-ef3215652558 https://raw.githubusercontent.com/cornos/cornos-files/master/contribcape.png
-2f2b69af-7651-4960-8379-6df999b88d75 https://media.discordapp.net/attachments/850897617139138580/851140516988190751/unknown.png
+2f2b69af-7651-4960-8379-6df999b88d75 https://raw.githubusercontent.com/cornos/cornos-files/master/unknown.png
 6b63c7dc-65b8-4e3a-8d69-ffbaa6f48c98 https://raw.githubusercontent.com/cornos/cornos-files/master/contribcape.png
 83b969b7-e99b-4af9-b081-872b6b4c58c6 https://raw.githubusercontent.com/cornos/cornos-files/master/contribcape.png
 7e02cd21-70c8-462e-9e6c-af7b6ff1dd13 https://raw.githubusercontent.com/cornos/cornos-files/master/contribcape.png
