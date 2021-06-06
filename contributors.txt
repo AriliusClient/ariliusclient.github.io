@@ -1,7 +1,7 @@
-ccff0c05-64eb-4383-8cd3-ef3215652558
-2f2b69af-7651-4960-8379-6df999b88d75
-6b63c7dc-65b8-4e3a-8d69-ffbaa6f48c98
-83b969b7-e99b-4af9-b081-872b6b4c58c6
-7e02cd21-70c8-462e-9e6c-af7b6ff1dd13
-ae74e2b4-7829-46c8-b912-ff9bd299e693
-83b969b7-e99b-4af9-b081-872b6b4c58c6
+ccff0c05-64eb-4383-8cd3-ef3215652558 https://raw.githubusercontent.com/cornos/cornos-files/master/contribcape.png
+2f2b69af-7651-4960-8379-6df999b88d75 https://raw.githubusercontent.com/cornos/cornos-files/master/contribcape.png
+6b63c7dc-65b8-4e3a-8d69-ffbaa6f48c98 https://raw.githubusercontent.com/cornos/cornos-files/master/contribcape.png
+83b969b7-e99b-4af9-b081-872b6b4c58c6 https://raw.githubusercontent.com/cornos/cornos-files/master/contribcape.png
+7e02cd21-70c8-462e-9e6c-af7b6ff1dd13 https://raw.githubusercontent.com/cornos/cornos-files/master/contribcape.png
+ae74e2b4-7829-46c8-b912-ff9bd299e693 https://raw.githubusercontent.com/cornos/cornos-files/master/contribcape.png
+83b969b7-e99b-4af9-b081-872b6b4c58c6 https://raw.githubusercontent.com/cornos/cornos-files/master/contribcape.png
